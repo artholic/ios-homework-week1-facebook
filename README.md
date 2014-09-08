@@ -3,10 +3,10 @@ ios-homework-week1-facebook
 
 -How many hours did it take to complete? 8 hours
 -Which required and optional stories have you completed?
-Setup:
-Create a new project (disable Auto Layout). Guide
-Add the image assets above. Guide
-Configure the app icon and splash screen. Guide
+*Setup:
+  -Create a new project (disable Auto Layout). Guide
+  -Add the image assets above. Guide
+  -Configure the app icon and splash screen. Guide
 Tab Bar
 Add a tab bar controller with 5 view controllers.
 Embed each view controller in its own navigation controller. Set a different background color for each view controller so you can confirm the tab bar controller is working correctly.
